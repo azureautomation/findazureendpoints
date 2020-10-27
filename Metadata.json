@@ -1,0 +1,20 @@
+{
+    "Author": "VirtualRW",
+    "ContentSize": 2729,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/findazureendpoints/master/GettingEndPonitsFromSubscription%20Final%202.ps1",
+    "DownloadCount": 1303,
+    "Id": "Find-AzureEndPoints-b72248ae",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 557,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2013-10-5T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Updted for Azure PowerShellVersion 0.7.1 This is a script to find configured Azure end-points on VMs (get-azureenpoint). It will report back any active VM with the port, protocol and name of any configured endpoint.This script idea came from wanting to prevent portal users from o",
+    "Title": "Find-AzureEndPoints",
+    "UpdatedDate": "2013-11-30T00:00:00",
+    "Url": "https://github.com/azureautomation/findazureendpoints",
+    "UserTags": ""
+}
